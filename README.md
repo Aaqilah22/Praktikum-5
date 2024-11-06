@@ -35,10 +35,10 @@
 <img width="591" alt="main prak5" src="https://github.com/user-attachments/assets/f3cfda85-729d-4873-9eff-fd8d1b47a0ac">
 
 **Penjelasan :**
-Membuat Objek Programmer dengan Constructor Overload:
-- Programmer("Andi Herlambang"): Menggunakan constructor Programmer yang hanya menerima nama. Nilai gajiPokok dan bonus akan diset sebagai 0.0 secara default.
-- Programmer("Riko", 6000000): Menggunakan constructor yang menerima nama dan gajiPokok. Nilai bonus akan diset sebagai 0.0.
-- Programmer("Dina", 5000000, 3000000): Menggunakan constructor yang menerima nama, gajiPokok, dan bonus.
+- Membuat Objek Programmer dengan Constructor Overload:
+  - Programmer("Andi Herlambang"): Menggunakan constructor Programmer yang hanya menerima nama. Nilai gajiPokok dan bonus akan diset sebagai 0.0 secara default.
+  - Programmer("Riko", 6000000): Menggunakan constructor yang menerima nama dan gajiPokok. Nilai bonus akan diset sebagai 0.0.
+  - Programmer("Dina", 5000000, 3000000): Menggunakan constructor yang menerima nama, gajiPokok, dan bonus.
 
 ## Output
 <img width="406" alt="output prak5" src="https://github.com/user-attachments/assets/32b3ebe1-f1a3-45bd-b5b5-2a53ad380710">
